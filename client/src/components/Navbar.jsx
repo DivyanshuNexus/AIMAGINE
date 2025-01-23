@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className='flex flex-row items-center space-x-2'>
           <Link to='/' className='flex items-center space-x-2'>
           <img src={assets.cameralogo} alt="" className='w-10 sm:32 lg-40'/>
-          <p className='text-xl font-semibold'>aiMagine</p>
+          <p className='text-3xl font-semibold'>aiMagine</p>
           </Link>
         </div>
         <div>
